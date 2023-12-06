@@ -21,12 +21,12 @@ const Hero = () => {
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6 lg:justify-start">
               <button className="rounded-md bg-green-500 px-3.5 py-2.5 text-sm font-semibold text-gray-600 shadow-sm hover:bg-green-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white">
-                <Link href="/about">Home</Link>
+                <Link href="/about">Telusuri Rano Group</Link>
               </button>
             </div>
           </div>
           <div className="relative mt-16 h-80 lg:mt-8">
-            <img
+            <Image
               className="absolute left-0 top-0 w-[30rem] max-w-none rounded-md bg-white/5 ring-1 ring-white/10"
               src="/2.jpg"
               alt="App screenshot"
