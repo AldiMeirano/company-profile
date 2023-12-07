@@ -10,7 +10,7 @@ const PanelProduct = () => {
             <div className="group relative">
               <div className="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
                 <Image
-                  src="/beras.jpg"
+                  src="/beras1.webp"
                   alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug."
                   className="h-full w-full object-cover object-center"
                   layout="fill"
@@ -31,7 +31,7 @@ const PanelProduct = () => {
             <div className="group relative">
               <div className="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
                 <Image
-                  src="/oil.jpg"
+                  src="/oil.webp"
                   alt="Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant."
                   className="h-full w-full object-cover object-center"
                   layout="fill"
@@ -52,7 +52,7 @@ const PanelProduct = () => {
             <div className="group relative">
               <div className="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
                 <Image
-                  src="/mie.jpg"
+                  src="/popmie.webp"
                   alt="Collection of four insulated travel bottles on wooden shelf."
                   className="h-full w-full object-cover object-center"
                   layout="fill"
@@ -72,7 +72,7 @@ const PanelProduct = () => {
             <div className="group relative">
               <div className="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
                 <Image
-                  src="/sugar.jpg"
+                  src="/sugar.webp"
                   alt="Collection of four insulated travel bottles on wooden shelf."
                   className="h-full w-full object-cover object-center"
                   layout="fill"
@@ -93,7 +93,7 @@ const PanelProduct = () => {
             <div className="group relative">
               <div className="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
                 <Image
-                  src="/produklain.jpg"
+                  src="/lainyyaa.webp"
                   alt="Collection of four insulated travel bottles on wooden shelf."
                   className="h-full w-full object-cover object-center"
                   layout="fill"

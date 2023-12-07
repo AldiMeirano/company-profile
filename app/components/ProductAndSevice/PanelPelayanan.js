@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 const PanelLayanan = () => {
   return (
     <div className="relative isolate overflow-hidden bg-white px-6 py-24 sm:py-32 lg:overflow-visible lg:px-0">
@@ -20,10 +22,12 @@ const PanelLayanan = () => {
           </div>
         </div>
         <div className="-ml-12 -mt-12 p-12 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
-          <img
+          <Image
             className="w-[28rem] max-w-none rounded-xl bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[40rem]"
-            src="/1.jpg"
+            src="/layanan.webp"
             alt="Panel Layanan"
+            width={640}
+            height={100}
           />
         </div>
         <div className="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">

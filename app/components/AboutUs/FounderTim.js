@@ -4,26 +4,26 @@ const posts = [
     id: 1,
     href: "#",
     description:
-      "CEO perusahaan distribusi kami, adalah lulusan Master of Business Administration (MBA) dari Wharton School of Business. Dengan keahlian di bidang manajemen bisnis dan strategi",
+      "Lulusan dari Stanford University, keahliannya melibatkan pengembangan algoritma cerdas dan teknologi pembelajaran mesin. Sebagai CTO, Emily mendefinisikan arah teknologi perusahaan",
     author: {
       name: "Michael Foster",
       role: "Co-Founder / CTO",
       href: "#",
       imageUrl:
-        "https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        "/1.webp",
     },
   },
   {
     id: 2,
     href: "#",
     description:
-      "Lulusan dari Stanford University, keahliannya melibatkan pengembangan algoritma cerdas dan teknologi pembelajaran mesin. Sebagai CTO, Emily mendefinisikan arah teknologi perusahaan",
+      "  CEO perusahaan distr ibusi kami, adalah lulusan Master of Business Administration (MBA) dari Wharton School of Business. Dengan keahlian di bidang manajemen bisnis dan strategi",
     author: {
       name: "Irano",
       role: "Founder / CEO",
       href: "#",
       imageUrl:
-        "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "/2.webp",
     },
   },
   {
@@ -36,7 +36,7 @@ const posts = [
       role: "Co-Founder / CFO",
       href: "#",
       imageUrl:
-        "https://images.unsplash.com/photo-1548142813-c348350df52b?q=80&w=1378&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "/3.webp",
     },
   },
   // More posts...

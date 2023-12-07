@@ -47,28 +47,28 @@ const TongkakSejarah = () => {
         </div>
         <div className="grid grid-cols-2 grid-rows-2 gap-4 sm:gap-6 lg:gap-8">
           <Image
-            src="/tongkak1.jpg"
+            src="/tongkak1.webp"
             alt="werehouse"
             className="rounded-lg bg-gray-100"
             width={200}
             height={50}
           />
           <Image
-            src="/tongkak2.jpg"
+            src="/tongkak2.webp"
             alt="Top down view of walnut card tray with embedded magnets and card groove."
             className="rounded-lg bg-gray-100"
             width={200}
             height={50}
           />
           <Image
-            src="/tongkak3.jpg"
+            src="/tongkak3.webp"
             alt="Side of walnut card tray with card groove and recessed card area."
             className="rounded-lg bg-gray-100"
             width={200}
             height={50}
           />
           <Image
-            src="/tongkak4.jpg"
+            src="/tongkak4.webp"
             alt="Walnut card tray filled with cards and card angled in dedicated groove."
             className="rounded-lg bg-gray-100"
             width={200}
